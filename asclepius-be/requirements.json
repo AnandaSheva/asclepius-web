@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "http://34.101.123.200:3000",
+ "frontend-service-url": "http://submissionmlgc-sheva.et.r.appspot.com",
+ "project-id": "submissionmlgc-sheva",
+ "bucket-name": "mlgc-data-sheva"
+}
